@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0041/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘四齋日
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2849.xml
+    old_id: T85n2849
+hash: sha256:6e84d09986a5739ecd64b17cc8a29ebe906596f4fa9e0fc40436869c7b603e9d

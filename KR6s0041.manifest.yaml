@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6s0041/v1
+canonical_location: https://kanripo.org/bkk/KR6s0041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘四齋日
+  identifiers:
+    alt_id:
+    - T85n2849
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2849.xml
+    old_id: T85n2849
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0041_000.yaml, hash: 'sha256:6e84d09986a5739ecd64b17cc8a29ebe906596f4fa9e0fc40436869c7b603e9d'}
+  - {seq: 1, filename: KR6s0041_001.yaml, hash: 'sha256:b83ae5671cf32f61177a04653a1b6c54476c0af9141af8879bc50a63d94c10fa'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0041_001.markers.yaml, hash: 'sha256:f09534caf1695966d06020f455817d03b49562f6e28fc3fd49db4aabfa09f816'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0041_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 386
+  label: 大乘四齋日
+  type: juan
+  level: 1
+hash: sha256:ab81452bb94386f4306d0588a87e20a466ec84b1f38b593fb77fbb890c828fd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
