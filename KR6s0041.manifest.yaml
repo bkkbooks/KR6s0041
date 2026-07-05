@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0041_000.yaml, hash: 'sha256:6e84d09986a5739ecd64b17cc8a29ebe906596f4fa9e0fc40436869c7b603e9d'}
-  - {seq: 1, filename: KR6s0041_001.yaml, hash: 'sha256:b83ae5671cf32f61177a04653a1b6c54476c0af9141af8879bc50a63d94c10fa'}
+  - {seq: 1, filename: KR6s0041_001.yaml, hash: 'sha256:33d12c66a58787ec4f816a48c82f43a29b61556e211146808f2fbf1d618238f2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0041_001.markers.yaml, hash: 'sha256:f09534caf1695966d06020f455817d03b49562f6e28fc3fd49db4aabfa09f816'}
+  - {seq: 0, role: markers, filename: assets/KR6s0041_000.markers.yaml, hash: 'sha256:0c8acb38cbcac73724a943edb259549a76316bd976f1bda38c90dd201b3e4277'}
+  - {seq: 1, role: markers, filename: assets/KR6s0041_001.markers.yaml, hash: 'sha256:262bb17723c831fbd036c7fbed4540ce28af33cef81760ceff1ea2d71ec2e2ba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 大乘四齋日
   type: juan
   level: 1
-hash: sha256:ab81452bb94386f4306d0588a87e20a466ec84b1f38b593fb77fbb890c828fd6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3e694b3223e17089ae3a99898cba5138a9198344fba62dfb59ea31f42a62d7d8
