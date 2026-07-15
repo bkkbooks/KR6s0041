@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0041/v1
 canonical_location: https://kanripo.org/bkk/KR6s0041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘四齋日
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0041_000.yaml, hash: 'sha256:6e84d09986a5739ecd64b17cc8a29ebe906596f4fa9e0fc40436869c7b603e9d'}
-  - {seq: 1, filename: KR6s0041_001.yaml, hash: 'sha256:33d12c66a58787ec4f816a48c82f43a29b61556e211146808f2fbf1d618238f2'}
+  - {seq: 1, filename: KR6s0041_001.yaml, hash: 'sha256:03c110af85ec2e48cb2d3b9aaa5f5182519af026c193f0e6ffdf17e4b710cc11'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0041_000.markers.yaml, hash: 'sha256:0c8acb38cbcac73724a943edb259549a76316bd976f1bda38c90dd201b3e4277'}
-  - {seq: 1, role: markers, filename: assets/KR6s0041_001.markers.yaml, hash: 'sha256:262bb17723c831fbd036c7fbed4540ce28af33cef81760ceff1ea2d71ec2e2ba'}
+  - {seq: 1, role: markers, filename: assets/KR6s0041_001.markers.yaml, hash: 'sha256:ea7924d22ba3c4199a78b59a531de7357805102e7af55d97c1bc90944aed9e5f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 大乘四齋日
   type: juan
   level: 1
-hash: sha256:3e694b3223e17089ae3a99898cba5138a9198344fba62dfb59ea31f42a62d7d8
+hash: sha256:671e005d8e3c40bb03a6372d14bbd27b1a04ff7f4765cc43f8ae36ddaa607713
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
